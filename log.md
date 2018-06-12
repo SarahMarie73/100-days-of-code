@@ -1,4 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Sarah Schlueter
+
+**Follow me on Twitter** https://twitter.com/sarah_schlueter
 
 ### R1D1: June 10, Sunday
 
@@ -17,3 +19,11 @@
 **Link(s) to work**
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
   - did Create Visual Balance using the text-align Property through Add a box-shadow to a Card-like element.
+
+### R1D3: June 12, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
