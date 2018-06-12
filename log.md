@@ -22,8 +22,10 @@ https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
 
 ### R1D3: June 12, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Made it through learning CSS gradients in Applied Visual Design challenges on FCC.
 
-**Thoughts** 
+**Thoughts** Found myself still getting caught up in if I'm even doing this whole code challenge and log right.  Worked my way through the CSS challenges and learned some new things about color & design.
 
 **Link(s) to work**
+This is where I left off:
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient
